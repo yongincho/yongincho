@@ -1,6 +1,6 @@
 ## Jason Cho
 
-Building **[Bud](https://meetbud.app)**, a tiny AI agent that lives on the back of your phone.
+Building **[Bud](https://meetbud.app)**, an AI walkie talkie that lives on the back of your phone.
 Flip your phone to wake it, say "Hey Bud", and watch it get done.
 
 Previously: YC W25 (Pickle) · Harvard CS + Bioengineering '25 · Oxford CHI Lab
